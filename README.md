@@ -1,6 +1,8 @@
 # Frontend Mentor - Time tracking dashboard
 
-[Original Challenge](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw)
+[Original Challenge](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw)  
+
+
 [Live Site url](https://andychen-web.github.io/Time-tracking-dashboard/)
 
 Users are able to:
